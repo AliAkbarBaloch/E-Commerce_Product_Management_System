@@ -1,0 +1,42 @@
+# Java
+/target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+*.tmp
+*.swp
+.DS_Store
+.idea/
+*.iws
+*.ipr
+*.bak
+*.orig
+
+# Maven
+/logs/
+/.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# VS Code
+.vscode/
+
+# Node/Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# OS
+Thumbs.db
+
+# Others
+*.env
+*.local
+*.sublime-workspace
+*.sublime-project
+
+# Test reports
+/target/surefire-reports/
+/target/test-classes/
